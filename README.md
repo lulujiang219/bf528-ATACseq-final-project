@@ -54,3 +54,5 @@ python concat_df.py -i CTLrep1.exon.txt CTLrep2.exon.txt CTLrep3.exon.txt KOrep3
 ```
 python parse_gtf.py -i gencode.vM33.primary_assembly.annotation.gtf -o id2gene.txt
 ```
+### Reference
+https://bu-bioinfo.github.io/bf528/project-3-rnaseq-individual-project.html
